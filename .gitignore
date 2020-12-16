@@ -1,0 +1,6 @@
+##.gitignore files
+.ipynb_checkpoints/
+test_dataset
+fastqc_out
+*~
+trim_out/
